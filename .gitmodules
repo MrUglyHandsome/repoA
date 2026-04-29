@@ -1,0 +1,8 @@
+[submodule "B"]
+	path = B
+	url = https://github.com/MrUglyHandsome/epoB.git
+	branch = xiaokang
+[submodule "C"]
+	path = C
+	url = https://github.com/MrUglyHandsome/epoC.git
+	branch = xiaokang
